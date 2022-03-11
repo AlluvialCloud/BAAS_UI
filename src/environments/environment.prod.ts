@@ -5,8 +5,8 @@ export const environment = {
   production: true,
   version: env.mifos_x_version,
   fineractPlatformTenantId: 'default',  // For connecting to server running elsewhere update the tenant identifier
-  baseApiUrl: JSON.parse(localStorage.getItem('mifosXServerURL')) || 'https://demo.fineract.dev',  // For connecting to server running elsewhere update the base API URL
-  allowServerSwitch: env.allow_switching_backend_instance,
+  baseApiUrl: 'https://baasflow-new.alluvial.cloud',  // For connecting to server running elsewhere update the base API URL
+  allowServerSwitch: false,
   apiProvider: '/fineract-provider/api',
   apiVersion: '/v1',
   serverUrl: '',

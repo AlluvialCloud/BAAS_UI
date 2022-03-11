@@ -10,8 +10,8 @@ export const environment = {
   production: false,
   version: env.mifos_x_version,
   fineractPlatformTenantId: 'default',  // For connecting to server running elsewhere update the tenant identifier
-  baseApiUrl: JSON.parse(localStorage.getItem('mifosXServerURL')) || 'https://dev.mifos.io',  // For connecting to server running elsewhere update the base API URL
-  allowServerSwitch: env.allow_switching_backend_instance,
+  baseApiUrl: 'http://localhost:8443',  // For connecting to server running elsewhere update the base API URL
+  allowServerSwitch: false,
   apiProvider: '/fineract-provider/api',
   apiVersion: '/v1',
   serverUrl: '',

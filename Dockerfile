@@ -8,7 +8,6 @@ COPY package.json /usr/src/app/package.json
 
 RUN npm install -g @angular/cli@9.1.12
 
-
 RUN npm install
 
 
