@@ -1,4 +1,12 @@
-# Alluvial BAAS Flow UI, based on the popular Mifos X Web App [![Build Status](https://travis-ci.com/openMF/web-app.svg?branch=master)](https://travis-ci.com/openMF/web-app) [![Gitter](https://badges.gitter.im/openMF/web-app.svg)](https://gitter.im/openMF/web-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+# Alluvial BaaSFlow # 
+
+Alluvial BaaSFlow is being launched as an open source solution combining the work of Mifos (mifos.org) and apache Fineract. These long standing Free and Open Sources (FOSS) projects were started by Alluvial's Founder and key contributors are on this project. 
+
+Alluvial is further developing the front end UI, developed by Mifos to more securely connect to the backend Fineract project (headless application. This readme is about that initial project.  
+
+These will be offered on a commercial basis. 
+
+## Alluvial BAAS Flow UI, based on the popular Mifos X Web App [![Build Status](https://travis-ci.com/openMF/web-app.svg?branch=master)](https://travis-ci.com/openMF/web-app) [![Gitter](https://badges.gitter.im/openMF/web-app.svg)](https://gitter.im/openMF/web-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Baas Flow UI connects various components developed by the community into hosted cloud offering with a demonstration front end.  
 
