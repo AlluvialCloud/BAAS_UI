@@ -1,8 +1,8 @@
-# Alluvial BaaSFlow # 
+#  BaaSFlow # 
 
-Alluvial BaaSFlow is being launched as an open source solution combining the work of Mifos (mifos.org) and apache Fineract. These long standing Free and Open Sources (FOSS) projects were started by Alluvial's Founder and key contributors are on this project. 
+BaaSFlow KENU is being launched as an open source solution combining the work of Mifos (mifos.org) and Apache Fineract(R). These long standing Free and Open Sources (FOSS) projects were started by James Dailey, Co Founder of BaaSFlow and several key contributors are part of this effort.   
 
-Alluvial is further developing the front end UI, developed by Mifos to more securely connect to the backend Fineract project (headless application. This readme is about that initial project.  
+BaaSFlow is further developing the front end UI, developed by Mifos to more securely connect to the backend Fineract project (headless application. This readme is about that initial project.  
 
 These will be offered on a commercial basis. 
 
